@@ -1,0 +1,13 @@
+BASE DATOS NEGOCIO - PLANTILLA CONTROL (yo te genero el Excel real cuando me des tu giro)
+Hoja1 VENTAS: Fecha | Producto | Cant | Precio | Total | Método (Efectivo/SPEI/MP) | Cliente
+Hoja2 GASTOS: Fecha | Concepto | Monto | Categoría
+Hoja3 INVENTARIO: Producto | Stock inicial | Entradas | Salidas | Stock final | Alerta (<5)
+Hoja4 RESUMEN: =SUMA(Ventas)-SUMA(Gastos) = Utilidad | Ticket promedio = Promedio(Ventas) | Meta día 1429 | Faltante = Meta-VentaHoy
+
+FÓRMULAS LISTAS PARA COPIAR EN EXCEL/SHEETS:
+Total fila: =C2*D2
+Utilidad día: =SUMA(E:E)-SUMA(Gastos!B:B)
+Alerta stock: =SI(E2<5,"PEDIR","OK")
+
+Dime tu giro (comida, uñas, taller, ropa) y te genero el archivo .xlsx con tus 20 productos ya cargados + gráfica. Tardo 2 min.
+ nichos validados Hotmart 2026 para este Excel: repostería keto, control porciones, manicure citas, taller refacciones.
