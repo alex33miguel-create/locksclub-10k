@@ -1,0 +1,16 @@
+GIRO ELEGIDO: BELLEZA (uñas / estética / barbería genérica)
+Por qué este da mejores resultados sin WhatsApp (datos 2026):
+- Hotmart: belleza + plantillas son top ventas constantes, no estacional.
+- IG/TikTok: belleza es 100% visual y cierra por DM, no necesita WhatsApp. Comida sí pide WhatsApp para pedidos.
+- Ticket: set uñas $300-600, corte+barba $300-500, facial $500-800. Con bono $499 y membresía $1,199 llegas a 10k con 9-20 ventas, no 100.
+- Tu cobro actual https://link.mercadopago.com.mx/locksclub ya es monto abierto, sirve para $499 / $1,199 sin cambiar nada.
+- Entrega por DM: captura + fecha, cero número expuesto.
+
+OFERTA DESDE CERO (sin LocksClub, marca genérica lista para ti):
+1. Bono Belleza $499 (set / corte / facial 1 sesión)
+2. Membresía 4 sesiones $1,199
+3. Pack Negocio Belleza $1,500: web + menú QR servicios + Excel citas + 9 posts (yo lo armo, tú lo revendes a salones)
+
+Excel citas belleza: Cliente | Servicio | Fecha | Hora | Anticipo | Resta | Estado | Tel/IG | Reagenda (sí/no)
+Fórmula resta: =Precio-Anticipo. Alerta: =SI(Hora="","SIN HORA","OK")
+Dime nombre de tu marca genérica y te genero el .xlsx con 50 citas ejemplo + gráfica ingresos/semana.
